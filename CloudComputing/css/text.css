@@ -1,0 +1,57 @@
+.text-container{
+    width: 70%;
+    margin: 0 auto;
+    max-width: 1000px;
+}
+.section{
+    margin: 30px 0;
+}
+
+.bullet-points{
+    margin-top: 20px;
+}
+
+.bullet-points ul li{
+    font-family: Tahoma;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.bullet-points-2 ul li{
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 30px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+h1{
+    margin-top: 50px;
+    font-size: 54px;
+    font-weight: bold;
+    font-family: "Arial Black";
+}
+
+h2{
+    font-size: 36px;
+    font-weight: bold;
+    font-family: "Arial Black";
+
+}
+
+h3{
+    font-size: 28px;
+    font-weight: bold;
+    font-family: "Arial Black";
+}
+
+p{
+    font-family: Tahoma;
+    margin-top: 30px;
+    font-size: 20px;
+    line-height: 24px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}

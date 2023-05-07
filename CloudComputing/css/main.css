@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #5271ff;
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  text-align: center;
+  padding: 0%;
+  letter-spacing: 6px;
+  font-size: 4vw;
+  color: white;
+  font-family: Arial;
+}
+
+h2{
+  text-align: center;
+  padding: 0%;
+  letter-spacing: 2px;
+  font-size: 2vw;
+  color: white;
+  font-family: Arial;
+}
+
+h3{
+  font-size: 26px;
+  line-height: 32px;
+  color: #fff;
+  font-family: Tahoma;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+a{
+  text-decoration: none;
+}
+

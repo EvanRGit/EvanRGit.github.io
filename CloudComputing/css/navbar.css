@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+}
+
+body{
+  font-family: Roboto;
+}
+
+nav{
+  background: #5271ff;
+  max-height: 80px;
+}
+
+.logo{
+  padding: 10px 0;
+}
+
+nav ul{
+  margin-right: 30px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+nav ul li{
+  margin: 10px 0;
+  width: auto;
+  list-style: none;
+  white-space: nowrap;
+  font-size: 1.2em;
+  color: white;
+}
+
+nav ul li:nth-child(2){
+  margin-right: auto;
+}
+
+nav ul li a{
+  color: white;
+  text-transform: capitalize;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+a:hover{
+  background: #6580FD;
+  transition: 0s;
+}
+
+.logo:hover{
+  background: #5271ff;
+}
